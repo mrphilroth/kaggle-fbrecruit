@@ -1,0 +1,5 @@
+# Data Files
+*.csv
+
+# Compiled Python
+*.pyc
